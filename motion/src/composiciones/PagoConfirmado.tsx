@@ -1,4 +1,4 @@
-// "El cliente paga → confirmas → los archivos se entregan solos" (7 s, 1080×1920).
+// "La última impresión": el cliente paga → confirmas → los archivos se entregan solos (7 s, 1080×1920).
 // Escenas: 0–1.5 s tarjeta de pago · 1.5–3 s confirmado · 3–5 s archivos liberados · 5–7 s cierre de marca.
 import { AbsoluteFill, Img, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from 'remotion'
 import { C, FUENTE, GRAD, estiloFuente } from '../marca'
@@ -58,7 +58,7 @@ export const PagoConfirmado = ({ cliente, monto, proyecto }: Props) => {
       <AbsoluteFill style={{ background: C.noche, opacity: cierre, justifyContent: 'center', alignItems: 'center', padding: 90, gap: 60 }}>
         <Img src={staticFile('personajes/mila-celebracion.png')} style={{ width: 520, filter: 'invert(1) hue-rotate(180deg)', opacity: 0.95 }} />
         <p style={{ margin: 0, color: C.blanco, fontSize: 92, lineHeight: 1.05, fontWeight: 700, letterSpacing: '-0.04em', textAlign: 'center' }}>
-          Cobra completo. Entrega sin perseguir a nadie<span style={{ display: 'inline-block', width: 26, height: 26, borderRadius: 13, background: GRAD, marginLeft: 8, transform: `scale(${pulso})` }} />
+          La experiencia también es diseño<span style={{ display: 'inline-block', width: 26, height: 26, borderRadius: 13, background: GRAD, marginLeft: 8, transform: `scale(${pulso})` }} />
         </p>
         <p style={{ margin: 0, color: '#9CA0A8', fontSize: 48, fontWeight: 600 }}>briffi.com</p>
       </AbsoluteFill>
