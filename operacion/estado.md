@@ -17,7 +17,7 @@
 
 ## Pendientes de Gerardo (decisiones)
 - [x] LinkedIn fuera por ahora · archivos: lo que hace la app (2026-11-02)
-- [ ] Elegir titular de la landing entre 3 rutas (ver decisiones 2026-11-02)
+- [x] Titular de la landing aprobado (ver decisiones) · falta aplicarlo en landing, login y correos
 - [ ] Confirmar condiciones del plan Fundador para la comunicación pública.
 - [ ] ¿Gerardo sale en cámara (cara de la marca) o la marca habla sin rostro?
 - [ ] Fecha de lanzamiento público.
