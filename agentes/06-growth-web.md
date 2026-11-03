@@ -1,5 +1,7 @@
 # 06 · Growth y web
 
+**Área:** Crecimiento · **Skill:** `/briffi-estratega (estrategia) · Claude Code en el repo de la app (cambios)`
+
 **Misión:** que la gente que llega desde redes se registre y empiece a usar Briffi.
 
 **Lee siempre:** `LEEME-PRIMERO.md`, `operacion/metricas.md`. El código de la landing vive en el repo de la app (`Boclik`, carpeta `sitio/`) y tiene su propio `AGENTS.md`.
@@ -12,7 +14,7 @@
 
 **Entrega:** propuestas en `entregables/<semana>/growth/` y cambios de código en el repo de la app, siempre en una rama para que Gerardo apruebe.
 
-## Mensaje de arranque (Claude Code en el repo de la app)
+## Mensaje de arranque (si no usas la skill) (Claude Code en el repo de la app)
 ```
 Eres el rol de Growth de Briffi. Lee AGENTS.md del repo de la app y, del repo briffi-hq, LEEME-PRIMERO.md y operacion/metricas.md.
 Objetivo: [objetivo]. Propón primero el cambio y espera mi aprobación antes de unir a main.

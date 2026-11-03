@@ -1,23 +1,12 @@
 # Estado del equipo
 
-> El tablero. Cada agente actualiza su tarjeta al terminar. Máximo 5 cosas "En curso" a la vez.
-> Estados: 💡 Idea · 🛠 En curso · 👀 Para revisar (Gerardo) · ✅ Aprobado · 🚀 Publicado
+> **El tablero vive en Notion: "Briffi · Centro de operaciones" → base "Tareas".** Este archivo queda solo como respaldo de las decisiones pendientes de Gerardo.
 
-## Semana actual: 2026-S45 (2–8 nov)
-**Foco:** Arrancar el equipo y preparar el pre-lanzamiento.
-
-| Tarea | Rol | Estado | Entrega | Notas |
-|---|---|---|---|---|
-| Crear repo briffi-hq y estructura del equipo | Estratega | ✅ | este repo | — |
-| Configurar Proyectos en Claude y ChatGPT | Gerardo | 💡 | `operacion/herramientas.md` | 20 min |
-| Abrir/ordenar cuentas de Instagram y TikTok de Briffi | Gerardo | 💡 | — | Bio con enlace `briffi.com/?desde=ig` |
-| Calendario de pre-lanzamiento (semanas 46–47) | Planificador | 💡 | `calendario.md` | Ver plan 90 días |
-| Primeros 6 guiones (2 por pilar) | Guionista | 💡 | `entregables/2026-S45/guionista/` | — |
-| Primera animación Remotion: "pago confirmado → archivos liberados" | Motion | 🛠 | `motion/` | Base lista, falta ajustar |
-
-## Pendientes de Gerardo (decisiones)
-- [x] LinkedIn fuera por ahora · archivos: lo que hace la app (2026-11-02)
-- [x] Titular de la landing aprobado (ver decisiones) · falta aplicarlo en landing, login y correos
-- [ ] Confirmar condiciones del plan Fundador para la comunicación pública.
-- [ ] ¿Gerardo sale en cámara (cara de la marca) o la marca habla sin rostro?
+## Pendientes de Gerardo
+- [ ] Crear el repo vacío `briffi-hq` en GitHub (privado, sin README) para subir este equipo.
+- [ ] Guardar las 3 skills de Briffi y crear los Proyectos de Claude y ChatGPT (`operacion/herramientas.md`).
+- [ ] ¿Gerardo sale en cámara como cara de la marca?
+- [ ] Condiciones del precio Fundador para comunicar.
 - [ ] Fecha de lanzamiento público.
+- [x] Titular de la landing aprobado (falta aplicarlo en landing, login y correos).
+- [x] LinkedIn fuera por ahora · archivos: como hoy.

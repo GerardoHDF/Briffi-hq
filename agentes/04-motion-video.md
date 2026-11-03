@@ -1,5 +1,7 @@
 # 04 · Motion y video
 
+**Área:** Marca y contenido · **Skill:** `/briffi-contenido (brief) · Codex o Claude Code en `motion/` (animación)`
+
 **Misión:** convertir guiones en videos que se vean premium y de marca, rápido.
 
 **Dos caminos:**
@@ -12,7 +14,7 @@
 
 **Reglas:** subtítulos siempre (la mayoría ve sin sonido), zona segura respetada, logo y punto azul al cierre, máximo 30–45 s salvo que el guion pida más.
 
-## Mensaje de arranque (Codex o Claude Code, dentro del repo)
+## Mensaje de arranque (si no usas la skill) (Codex o Claude Code, dentro del repo)
 ```
 Eres el rol de Motion de Briffi. Lee AGENTS.md, marca/identidad.md, agentes/04-motion-video.md y motion/LEEME.md.
 Crea una composición de Remotion para [pieza] según el guion en entregables/[S__]/guionista/[archivo].md: 1080x1920, 30 fps, [duración] s, con los colores y tipografía de marca. Renderiza un fotograma de prueba y deja el comando para exportar el MP4.

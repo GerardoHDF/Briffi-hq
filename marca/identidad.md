@@ -23,7 +23,7 @@ Regla: base neutra (blanco, niebla, negro) y **el azul solo donde está la acci�
 
 ## Tipografía
 - **Geist** (libre, Google Fonts) en todo. Títulos en 700 con letras juntas (−0.04em). Texto en 400–500.
-- Títulos cortos que cierran con el **punto azul**: "Cobra completo. Entrega sin perseguir a nadie**.**"
+- Títulos cortos que cierran con el **punto azul**: "Del brief a la entrega, en un solo lugar**.**"
 
 ## Formas
 - Esquinas redondeadas (32/24/16/10 px), botones y etiquetas en píldora, tarjetas blancas con sombra suave, mucho aire.
