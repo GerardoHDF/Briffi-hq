@@ -1,0 +1,76 @@
+
+{
+  "brand": "Briffi",
+  "version": "1.0",
+  "voice_definition": "Un creativo con criterio, cercano, ingenioso y profesional.",
+  "tones": {
+    "marketing": {
+      "closeness": 9,
+      "creativity": 9,
+      "humor": 6,
+      "audacity": 8,
+      "professionalism": 8,
+      "clarity": 9
+    },
+    "designer_app": {
+      "closeness": 8,
+      "creativity": 6,
+      "humor": 3,
+      "audacity": 4,
+      "professionalism": 9,
+      "clarity": 10
+    },
+    "client_portal": {
+      "closeness": 6,
+      "creativity": 3,
+      "humor": 0,
+      "audacity": 1,
+      "professionalism": 10,
+      "clarity": 10
+    }
+  },
+  "verbal_pillars": [
+    "El diseño va más allá del diseño",
+    "Menos enredos, más espacio para crear",
+    "Crear también es conectar",
+    "Tu creatividad, tus reglas",
+    "Subamos el nivel del oficio"
+  ],
+  "lexicon": {
+    "prefer": [
+      "Experiencia",
+      "A tu altura",
+      "Fuera del lienzo",
+      "Cuidar",
+      "Claridad",
+      "Criterio",
+      "Compartir",
+      "Presentar",
+      "Proceso",
+      "Autonomía"
+    ],
+    "avoid": [
+      "Revolucionario",
+      "Productividad extrema",
+      "Automatización total",
+      "Cobra el doble",
+      "Éxito garantizado",
+      "Clientes problemáticos"
+    ]
+  },
+  "rules": [
+    "La claridad prevalece sobre el ingenio.",
+    "Usar español ampliamente comprensible en Hispanoamérica.",
+    "No ridiculizar a los clientes.",
+    "No garantizar ingresos ni resultados.",
+    "No anunciar funciones no implementadas.",
+    "Usar tono sobrio en pagos, contratos, aprobaciones y errores.",
+    "La identidad del diseñador es protagonista en el portal del cliente."
+  ],
+  "message_hierarchy": {
+    "philosophy": "La experiencia también es diseño.",
+    "promise": "Tu trabajo merece una experiencia a su altura.",
+    "campaign": "Del primer wow al último detalle.",
+    "functional": "Del primer brief a la última entrega, todo más conectado."
+  }
+}

@@ -1,0 +1,91 @@
+
+{
+  "brand": "Briffi",
+  "version": "1.0",
+  "market": "Hispanoamérica",
+  "category": "Plataforma de gestión y experiencia de proyectos de diseño",
+  "tagline": "La experiencia también es diseño.",
+  "brand_idea": "El valor del diseño también está en la experiencia.",
+  "promise": "Tu trabajo merece una experiencia a su altura.",
+  "campaign": "Del primer wow al último detalle.",
+  "purpose": "Elevar el valor del trabajo creativo impulsando una nueva forma de ejercer el diseño, donde el talento esté respaldado por procesos profesionales y experiencias que estén a su altura.",
+  "vision": "Ser la plataforma de referencia para profesionales del diseño en Hispanoamérica, contribuyendo a una industria donde la calidad de la experiencia sea tan importante como la calidad del resultado creativo.",
+  "mission": "Ayudar a diseñadores independientes y estudios creativos a organizar, presentar y entregar sus proyectos con profesionalismo, mediante una plataforma que simplifica la gestión, mejora la colaboración con sus clientes y les permite ofrecer una experiencia de mayor valor percibido.",
+  "values": [
+    "Excelencia integral",
+    "Claridad radical",
+    "Respeto creativo",
+    "Autonomía profesional",
+    "Evolución constante"
+  ],
+  "audiences": [
+    {
+      "segment": "Diseñadores gráficos independientes",
+      "role": "buyer",
+      "desires": ["Claridad", "Autonomía", "Profesionalismo", "Tiempo creativo"],
+      "fears": ["Procesos rígidos", "Perder contexto", "Trabajo administrativo excesivo"],
+      "jtbd": "Gestionar el proyecto completo con claridad y una experiencia profesional para el cliente."
+    },
+    {
+      "segment": "Estudios creativos pequeños",
+      "role": "buyer",
+      "desires": ["Consistencia", "Identidad", "Claridad de acuerdos"],
+      "fears": ["Burocracia", "Experiencia fragmentada"],
+      "jtbd": "Ofrecer una experiencia consistente sin perder identidad."
+    },
+    {
+      "segment": "Clientes finales",
+      "role": "complementary_user",
+      "desires": ["Confianza", "Orientación", "Participación clara"],
+      "fears": ["Incertidumbre", "Confusión", "Entregas ambiguas"],
+      "jtbd": "Comprender el estado del proyecto, participar y acceder al resultado."
+    }
+  ],
+  "value_proposition": {
+    "benefit": "Una experiencia de cliente a la altura del trabajo creativo.",
+    "functional_support": "Recorrido integral del proyecto.",
+    "difference_hypothesis": "Integración del proceso gráfico con la experiencia del cliente y la autonomía del diseñador.",
+    "reasons_to_believe": [
+      "Portal personalizable según el alcance V1",
+      "Propuestas, contratos y briefs",
+      "Tablero visual de dirección creativa",
+      "Comentarios vinculados a piezas",
+      "Rondas de revisión configurables",
+      "Visibilidad flexible del progreso",
+      "Pago final con verificación manual",
+      "Entrega final condicionada al pago confirmado"
+    ]
+  },
+  "archetype": {
+    "primary": "Creador",
+    "secondary": "Sabio",
+    "attitude": "Rebelde"
+  },
+  "personality": [
+    "Creativa",
+    "Cercana",
+    "Ingeniosa",
+    "Competente",
+    "Inconformista"
+  ],
+  "positioning": "Briffi es la plataforma para diseñadores independientes y estudios creativos que quieren gestionar sus proyectos y ofrecer a sus clientes una experiencia tan cuidada como el diseño que entregan.",
+  "signature_moments": [
+    "Primera impresión del portal personalizado",
+    "Última impresión de la entrega final"
+  ],
+  "golden_circle": {
+    "why": "La experiencia también forma parte del valor del diseño.",
+    "how": "Procesos claros, presentación profesional, colaboración contextual y autonomía.",
+    "what": "Plataforma para gestionar, presentar, revisar y entregar proyectos gráficos."
+  },
+  "brand_architecture": {
+    "recommendation": "Monolítica",
+    "editorial_series": "Fuera del lienzo"
+  },
+  "validation_status": {
+    "naming_selected": true,
+    "trademark_clearance_completed": false,
+    "competitive_advantage_proven": false,
+    "v1_fully_implemented_confirmed": false
+  }
+}

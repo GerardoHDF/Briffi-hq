@@ -1,0 +1,105 @@
+
+{
+  "brand": "Briffi",
+  "version": "1.0",
+  "signature_moments": [
+    {
+      "name": "Primera impresión",
+      "audience": "Cliente final",
+      "touchpoint": "Portal personalizado",
+      "emotional_goal": "Confianza",
+      "success_conditions": [
+        "Reconoce al diseñador",
+        "Identifica el proyecto",
+        "Comprende el estado",
+        "Encuentra la siguiente acción"
+      ],
+      "kpi": "Éxito en tareas sin ayuda"
+    },
+    {
+      "name": "Última impresión",
+      "audience": "Cliente final",
+      "touchpoint": "Entrega final",
+      "emotional_goal": "Satisfacción y tranquilidad",
+      "success_conditions": [
+        "Pago final confirmado",
+        "Archivos correctos disponibles",
+        "Descarga comprensible",
+        "Condiciones de acceso conocidas"
+      ],
+      "kpi": "Entregas sin incidencias"
+    }
+  ],
+  "stages": [
+    {
+      "name": "Propuesta",
+      "touchpoints": ["Propuestas", "Paquetes"],
+      "pain_points": ["Alcance ambiguo"],
+      "message": "Revisa las opciones y condiciones del proyecto.",
+      "kpi": "Comprensión de propuesta"
+    },
+    {
+      "name": "Acuerdo",
+      "touchpoints": ["Contrato", "Anticipo"],
+      "pain_points": ["Condiciones poco claras"],
+      "message": "Consulta el acuerdo antes de continuar.",
+      "kpi": "Pasos iniciales completados"
+    },
+    {
+      "name": "Brief",
+      "touchpoints": ["Formulario", "Materiales"],
+      "pain_points": ["Información incompleta"],
+      "message": "Comparte la información necesaria para comenzar.",
+      "kpi": "Briefs completados"
+    },
+    {
+      "name": "Dirección",
+      "touchpoints": ["Tablero visual", "Presentación"],
+      "pain_points": ["Ideas sin contexto"],
+      "message": "Explora la dirección creativa compartida.",
+      "kpi": "Comprensión de la presentación"
+    },
+    {
+      "name": "Desarrollo",
+      "touchpoints": ["Estado", "Etapas"],
+      "pain_points": ["Incertidumbre"],
+      "message": "Consulta el progreso disponible.",
+      "kpi": "Consultas aclaratorias"
+    },
+    {
+      "name": "Revisión",
+      "touchpoints": ["Piezas", "Comentarios"],
+      "pain_points": ["Feedback disperso"],
+      "message": "Comparte comentarios en cada pieza.",
+      "kpi": "Revisiones completadas"
+    },
+    {
+      "name": "Aprobación",
+      "touchpoints": ["Versiones", "Confirmación"],
+      "pain_points": ["Versiones ambiguas"],
+      "message": "Confirma la propuesta que estás aprobando.",
+      "kpi": "Incidencias de aprobación"
+    },
+    {
+      "name": "Pago final",
+      "touchpoints": ["Comprobante", "Verificación manual"],
+      "pain_points": ["Confusión de estados"],
+      "message": "El pago está pendiente de verificación.",
+      "kpi": "Incidencias de pago"
+    },
+    {
+      "name": "Entrega",
+      "touchpoints": ["Descarga", "Archivo"],
+      "pain_points": ["Archivos inaccesibles"],
+      "message": "Tu entrega está disponible para descargar.",
+      "kpi": "Descargas exitosas"
+    }
+  ],
+  "principles": [
+    "Claridad sin saturación",
+    "Presentación con intención",
+    "Colaboración con respeto",
+    "Libertad con estructura",
+    "Confianza en cada cierre"
+  ]
+}

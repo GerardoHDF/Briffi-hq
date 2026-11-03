@@ -1,6 +1,7 @@
 # Briffi — lo que todo el equipo debe saber
 
 > Lee este archivo completo antes de hacer cualquier cosa. Luego lee tu rol en `agentes/` y el estado en `operacion/estado.md`.
+> **La marca oficial está en `marca/brandbook/`** (Brand Book v1.0 de Gerardo). Este archivo es el resumen operativo; si chocan, manda el Brand Book, salvo lo corregido en `marca/auditoria-brandbook-v1.md`.
 > Si algo aquí está desactualizado, no lo inventes: pregúntale a Gerardo y anota la respuesta en `operacion/decisiones.md`.
 
 ## En una frase

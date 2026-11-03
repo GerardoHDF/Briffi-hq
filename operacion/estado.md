@@ -16,6 +16,7 @@
 | Primera animación Remotion: "pago confirmado → archivos liberados" | Motion | 🛠 | `motion/` | Base lista, falta ajustar |
 
 ## Pendientes de Gerardo (decisiones)
+- [ ] Brand Book: aprobar jerarquía de mensajes, título de la landing, LinkedIn y política de archivo (ver `marca/auditoria-brandbook-v1.md` §6).
 - [ ] Confirmar condiciones del plan Fundador para la comunicación pública.
 - [ ] ¿Gerardo sale en cámara (cara de la marca) o la marca habla sin rostro?
 - [ ] Fecha de lanzamiento público.

@@ -1,0 +1,42 @@
+
+{
+  "brand": "Briffi",
+  "version": "1.0",
+  "campaign": "Del primer wow al último detalle.",
+  "duration": "13 semanas, aproximadamente 90 días",
+  "channels": ["Instagram", "LinkedIn", "Email", "Web"],
+  "pillars": [
+    {"name": "Fuera del lienzo", "weight": 25},
+    {"name": "El oficio sin filtro", "weight": 20},
+    {"name": "Diseña la experiencia", "weight": 25},
+    {"name": "Así funciona Briffi", "weight": 20},
+    {"name": "Somos del mismo gremio", "weight": 10}
+  ],
+  "cadence": {
+    "instagram": "1 pieza principal por semana",
+    "linkedin": "1 pieza principal por semana",
+    "email": "Selectivo, según audiencia existente"
+  },
+  "calendar": [
+    {"week":1,"phase":"Conectar","topic":"La experiencia también es diseño","format":"Carrusel + reflexión","cta":"Conoce la filosofía","kpi":"Interacción cualificada"},
+    {"week":2,"phase":"Conectar","topic":"Primera impresión","format":"Reel + post","cta":"Comparte tu experiencia","kpi":"Comentarios"},
+    {"week":3,"phase":"Conectar","topic":"El oficio sin filtro","format":"Humor + reflexión","cta":"Comparte tu anécdota","kpi":"Compartidos"},
+    {"week":4,"phase":"Conectar","topic":"Última impresión","format":"Carrusel + post","cta":"Conoce Briffi","kpi":"Visitas web"},
+    {"week":5,"phase":"Demostrar","topic":"Qué es Briffi","format":"Video + post","cta":"Explora el concepto","kpi":"Clics"},
+    {"week":6,"phase":"Demostrar","topic":"Portal personalizado","format":"Prototipo identificado + post","cta":"Descubre el portal","kpi":"Interés funcional"},
+    {"week":7,"phase":"Demostrar","topic":"Feedback contextual","format":"Educativo + demostración","cta":"Aprende cómo funciona","kpi":"Consultas"},
+    {"week":8,"phase":"Demostrar","topic":"Autonomía creativa","format":"Carrusel + reflexión","cta":"Comparte tu opinión","kpi":"Respuestas"},
+    {"week":9,"phase":"Activar","topic":"Del brief a la entrega","format":"Video + post","cta":"Solicita información","kpi":"Interés cualificado"},
+    {"week":10,"phase":"Activar","topic":"Escuchar al gremio","format":"Encuesta + pregunta","cta":"Participa","kpi":"Respuestas"},
+    {"week":11,"phase":"Activar","topic":"Primera y última impresión","format":"Campaña + post","cta":"Descubre Briffi","kpi":"Clics"},
+    {"week":12,"phase":"Activar","topic":"Desarrollo transparente","format":"Actualización + post","cta":"Conoce el estado","kpi":"Comprensión"},
+    {"week":13,"phase":"Activar","topic":"Aprendizajes y próximos pasos","format":"Recapitulación","cta":"Conoce el siguiente paso","kpi":"Solicitudes"}
+  ],
+  "restrictions": [
+    "No anunciar prototipos como producto terminado.",
+    "No inventar testimonios o usuarios.",
+    "No anunciar disponibilidad sin confirmación.",
+    "No prometer funcionalidades fuera de V1."
+  ]
+}
+
