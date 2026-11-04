@@ -26,3 +26,10 @@
 - **Herramientas:** Claude para estrategia, contenido y web; Codex/Claude Code para motion con código (Remotion) y la app; ChatGPT para imágenes de apoyo; Adobe/Canva para edición y piezas.
 - **Motion de producto con Remotion:** las animaciones de la interfaz se hacen con código para mantener la marca exacta y producir rápido.
 - **Precios vigentes:** Gratis USD 0; Pro USD 9/mes o 90/año. Precio fundador en la app: USD 5/mes o 50/año para quienes entraron en la beta (configurable en Admin). *Confirmar antes de comunicarlo en redes.*
+
+## 2026-11-03 · Planes y precio fundador
+- Hacia afuera hay 2 planes: Gratis y Pro. Beta y Fundador son la oferta de lanzamiento de Pro (por dentro la app sigue con los 4).
+- Precio fundador: USD 5/mes o USD 50/año, **para siempre** mientras mantengan el plan. **Cupos limitados.**
+- La landing muestra el Pro con el precio fundador tachando el normal (USD 9 / USD 7,50) mientras dure la beta.
+- Al cerrar la beta: cuentas nuevas con 14 días de Pro gratis (ya programado en la app) y precio normal.
+- Landing: recorrido animado por la app (Proyectos, Propuesta, Revisiones, Pagos, Tareas, Portal del cliente, Entrega) con capturas reales y proyecto de ejemplo.
