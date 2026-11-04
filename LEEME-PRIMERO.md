@@ -41,8 +41,8 @@ Plataforma para diseñadores independientes y estudios pequeños de Hispanoamér
 
 ## Planes
 - **Gratis — USD 0:** 1 proyecto activo, todo el recorrido, marca Briffi, 500 MB.
-- **Pro — USD 9/mes o 90/año:** proyectos ilimitados, tu marca en portal, correos y página, cuotas, rondas extra que se cobran solas, recordatorios automáticos, avisos al teléfono del cliente, 20 GB.
-- **Fundador:** precio especial para quienes entraron en la beta (hoy USD 5/mes o 50/año en la app; confirmar con Gerardo antes de comunicarlo).
+- **Pro — USD 9,99/mes o 99,90/año (2 meses gratis):** proyectos ilimitados, tu marca en portal, correos y página, cuotas, rondas extra que se cobran solas, recordatorios automáticos, avisos al teléfono del cliente, 20 GB.
+- **Fundador:** USD 5/mes o 50/año, para siempre mientras mantengan el plan. **Solo 100 cupos** (quienes entran en la beta). Al llenarse, las cuentas nuevas reciben 14 días de Pro.
 
 ## A quién le hablamos
 - **Diseñadores independientes** (principal): quieren claridad, autonomía, verse profesionales y tiempo para crear. Temen procesos rígidos y trabajo administrativo.
@@ -64,7 +64,7 @@ En pagos, contratos, aprobaciones y errores: precisión, sin chistes. En el port
 Fuera del lienzo 25 % · El oficio sin filtro 20 % · Diseña la experiencia 25 % · Así funciona Briffi 20 % · Somos del mismo gremio 10 %.
 
 ## Competencia
-Bonsai, Plutio, Dubsado, HoneyBook, ManyRequests, MarkUp. No decimos que somos "los únicos". El diferencial comprobable: **en español, pensado para cómo se trabaja en Latinoamérica (pagos locales, sin comisión, cliente sin cuenta) y a USD 9.**
+Bonsai, Plutio, Dubsado, HoneyBook, ManyRequests, MarkUp. No decimos que somos "los únicos". El diferencial comprobable: **en español, pensado para cómo se trabaja en Latinoamérica (pagos locales, sin comisión, cliente sin cuenta) y a USD 9,99.**
 
 ## Personajes
 Mila (te acompaña), Ren (te ayuda a decidir), Rocco (te ayuda a crear). Archivos en `marca/assets/personajes/`.

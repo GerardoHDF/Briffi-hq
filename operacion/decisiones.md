@@ -33,3 +33,4 @@
 - La landing muestra el Pro con el precio fundador tachando el normal (USD 9 / USD 7,50) mientras dure la beta.
 - Al cerrar la beta: cuentas nuevas con 14 días de Pro gratis (ya programado en la app) y precio normal.
 - Landing: recorrido animado por la app (Proyectos, Propuesta, Revisiones, Pagos, Tareas, Portal del cliente, Entrega) con capturas reales y proyecto de ejemplo.
+- 2026-11-04 · **Pro sube a USD 9,99/mes (USD 99,90/año).** Fundador queda en USD 5 / USD 50. **100 cupos de fundador**: la app los cuenta (sin la cuenta de administración) y, al llenarse, las cuentas nuevas entran con 14 días de Pro. Con ~11 fundadores pagando se cubren los costos fijos (~USD 47/mes: Supabase Pro, Resend, dominio).
